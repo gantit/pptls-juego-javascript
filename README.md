@@ -25,6 +25,8 @@ Aunque es más sencillo con una imagen:
 
 Sugerimos que lo jueguen un par de veces para comprender la temática, aunque es bastante sencilla
 
+## Web
+[Mira el Ejemplo](http://goo.gl/ljveNk)
 
 ### Codigo
 * Los ultimos cambio efectuados se han hecho para **reducir considerablemente el codigo** y poderlo implementar, hacia otro nivel superior de complegidad. 
