@@ -1,0 +1,45 @@
+body {
+    font-family: helvetica;
+    background-color:#dead2c;
+}
+
+#header {
+    text-align: center;
+    height: 40px;
+    line-height: 40px;
+    background-color:#2cb6de;
+}
+
+p {
+    text-decoration: bold;
+}
+
+h1 {
+    vertical-align: middle;
+    color: white;
+    font-weight: bold;
+}
+#main {
+    text-align: center;
+    padding: 10px;
+    line-height: 40px;
+    background-color:#ccc;
+}
+
+.instruccion{
+    margin:0 auto 0 auto;
+    
+}
+.msjWin {
+    color:#009f00;
+}
+.msjLost {
+    color:#ed1c24;
+}
+
+/* Movilles */
+@media min-width 800px {
+    img {
+        width:100%;
+    }
+}
