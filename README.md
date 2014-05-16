@@ -1,4 +1,4 @@
-Javascript # Piedra, papel, tijera, lagarto, Spock
+Javascript - Piedra, papel, tijera, lagarto, Spock
 ===============================================================
 
 ## Contexto
@@ -26,7 +26,7 @@ Aunque es más sencillo con una imagen:
 Sugerimos que lo jueguen un par de veces para comprender la temática, aunque es bastante sencilla
 
 ## Web
-[Mira el Ejemplo](http://goo.gl/ljveNk)
+Aqui tienes un [ejemplo](http://goo.gl/ljveNk) de como es la web 
 
 ### Codigo
 * Los ultimos cambio efectuados se han hecho para **reducir considerablemente el codigo** y poderlo implementar, hacia otro nivel superior de complegidad. 
