@@ -25,16 +25,8 @@ Aunque es más sencillo con una imagen:
 
 Sugerimos que lo jueguen un par de veces para comprender la temática, aunque es bastante sencilla
 
-## 
-
-### Material proporcionado
-
-Se otorga la implementación base de la clase `Mano`, donde deberás completar, agregando tu propio código y eliminando las excepciones correspondientes, que hacen fallar el programa tal cual se entrega.
-Adicionalmente se entrega una implementación básica de los enumerados `Forma` y `Resultado`.
-
-También se te proveerá un *test* (dentro de la clase `PartidaTests`) a modo de testigo, probando uno de los casos emblemáticos. Idealmente deberías hacer crecer esas pruebas, o agregar las tuyas propias para asegurarte de que tu solución es correcta.
 
 ### Codigo
-* Los ultimos cambio efectuados se han hecho para reducir considerablemente el codigo y poderlo implementar, hacia otro nivel superior de complegidad. 
+* Los ultimos cambio efectuados se han hecho para **reducir considerablemente el codigo** y poderlo implementar, hacia otro nivel superior de complegidad. 
 * El codigo permite agregar mensajes del ordenador en cualquier idioma
 * Genera gif aleatorios de mensaje cuando el jugador pierde.
